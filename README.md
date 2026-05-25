@@ -21,36 +21,6 @@ A Java Maven-based console application for managing daily expenses with CRUD ope
 * IntelliJ IDEA
 * Collections Framework
 * 
-## Project Structure
-
-expense-tracker/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── akshaya/
-│   │   │           └── expensetracker/
-│   │   │               ├── App.java
-│   │   │               │
-│   │   │               ├── model/
-│   │   │               │   └── Expense.java
-│   │   │               │
-│   │   │               ├── service/
-│   │   │               │   └── ExpenseService.java
-│   │   │               │
-│   │   │               ├── exception/
-│   │   │                   └── InvalidExpenseException.java
-│   │   │
-│   │   └── resources/
-│   │
-│   └── test/
-│
-├── expenses.txt
-├── pom.xml
-├── README.md
-└── .gitignore
-
 ## Maven Concepts Used
 
 * Maven Project Structure
