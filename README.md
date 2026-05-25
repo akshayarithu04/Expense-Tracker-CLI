@@ -20,7 +20,7 @@ A Java Maven-based console application for managing daily expenses with CRUD ope
 * Maven
 * IntelliJ IDEA
 * Collections Framework
-* 
+ 
 ## Maven Concepts Used
 
 * Maven Project Structure
